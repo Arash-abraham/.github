@@ -14,55 +14,86 @@
 
 ## What We Do
 
+We are a private Iranian development team. No limits. No borders.
+
+From **security tools** and **ethical hacking utilities** to **scalable web platforms**, **custom dashboards**, and **automation scripts** — if it needs code, we can build it.
+
 Web platforms · Security tools · Bots & automation · Backend APIs · Internal tools · Anything custom
 
-If it needs code, we build it.
+> If it needs code, we build it. No over-promising. Just delivery.
 
 ---
 
 ## Tech Stack
 
-**Backend:** Laravel, Python (Django/FastAPI), Go  
-**Frontend:** Vue, React, Next.js, Livewire, Alpine  
-**Database:** PostgreSQL, MySQL, Redis, SQLite  
-**Infra:** Docker, GitHub Actions, K8s, Linux
+| Layer | Technologies |
+|-------|--------------|
+| Backend | Laravel, Python (Django/FastAPI), Go |
+| Frontend | Vue, React, Next.js, Livewire, Alpine |
+| Database | PostgreSQL, MySQL, Redis, SQLite |
+| Infra | Docker, GitHub Actions, K8s, Linux |
 
 ---
 
 ## Featured Project
 
-**[Watch Tower](https://github.com/AryaKhorasan/watch-tower)** — Real-time asset monitoring platform (Python3 + Laravel 13 + Vue)
+**[Watch Tower](https://github.com/AryaKhorasan/watch-tower)** — Real-time asset monitoring platform
 
-Multi-channel alerts · WebSocket live sync · SaaS ready
+Built with Python3 + Laravel 13 + Vue Core. Detects newly added assets from defined targets and notifies you instantly across Discord, Telegram, and in-app alerts. Originally a simple script, now a full platform with WebSocket live sync, reactive dashboard, and SaaS-ready architecture.
 
 ---
 
 ## Team
 
-| Member | Role |
-|--------|------|
-| [Arash-abraham](https://github.com/Arash-abraham) | Founder & Lead |
-| [joseph-adk1](https://github.com/joseph-adk1) | Senior Developer |
+<div align="center">
+  
+[![Arash-abraham](https://github.com/Arash-abraham.png?size=100)](https://github.com/Arash-abraham) &nbsp;&nbsp;&nbsp; [![joseph-adk1](https://github.com/joseph-adk1.png?size=100)](https://github.com/joseph-adk1)
+
+**[Arash-abraham](https://github.com/Arash-abraham)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[joseph-adk1](https://github.com/joseph-adk1)**  
+Founder & Lead &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Developer
+
+</div>
 
 ---
 
 ## Sponsor Us
 
-Your support helps us maintain open-source tools and build more.
+Your sponsorship directly funds:
+- Maintenance of Watch Tower and future open-source tools
+- Documentation, tutorials, and API guides
+- New features requested by the community
+- Iranian talent building world-class software
 
-**Benefits:** Name in repos · Priority consultation · Early access · Feature voting
+**Sponsor benefits:**
+
+| Tier | Benefits |
+|------|----------|
+| $1+/month | Name in SPONSORS.md across all repos |
+| $5+/month | Priority technical consultation (private channel) |
+| $20+/month | Early access to new tools + feature voting |
+| Enterprise | Custom development + dedicated support |
 
 [Click to sponsor →](https://github.com/sponsors/AryaKhorasan)
 
-**Can't pay?** Star repos, report bugs, share our work, or contribute code. You're still part of the community.
+**Can't pay?** You are still supported and valued. Star our repos, report bugs, give feedback, share our work, or contribute code. Financial or not — you're part of our community.
 
 ---
 
 ## Hire Us
 
-Private contracts for MVPs, internal tools, backend architecture, or any idea you have.
+We accept private contracts for:
+- MVP development for startups
+- Custom internal tools (automation, dashboards, security)
+- Backend architecture consulting
+- Any idea you have — just tell us
 
-**Contact:** [Arash](https://github.com/Arash-abraham) — Telegram: @Octawian
+**Contact:** [Arash-abraham](https://github.com/Arash-abraham) — Telegram: @Octawian
+
+---
+
+## Our Philosophy
+
+We focus on our craft and respect every builder. Healthy competition lifts everyone. We're here to build great things, not to prove others are less.
 
 ---
 
