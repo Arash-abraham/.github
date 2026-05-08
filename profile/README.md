@@ -82,22 +82,12 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 <div align="center">
   
-<a href="https://github.com/Arash-abraham">
-  <img src="https://github.com/Arash-abraham.png" width="100" style="border-radius: 50%; margin: 10px;">
-</a>
-<a href="https://github.com/joseph-adk1">
-  <img src="https://github.com/joseph-adk1.png" width="100" style="border-radius: 50%; margin: 10px;">
-</a>
-<a href="https://github.com/iamhosseinzadeh">
-  <img src="https://github.com/iamhosseinzadeh.png" width="100" style="border-radius: 50%; margin: 10px;">
-</a>
-
-**Arash Ebrahimian** &nbsp;&nbsp;&nbsp; **Joseph Adk1** &nbsp;&nbsp;&nbsp; **Amirhossein Hosseinzadeh**  
-*Founder & Lead* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Senior Developer* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Template Specialist*
-
-[![GitHub](https://img.shields.io/badge/Arash-000?style=flat&logo=github)](https://github.com/Arash-abraham)
-[![GitHub](https://img.shields.io/badge/Joseph-000?style=flat&logo=github)](https://github.com/joseph-adk1)
-[![GitHub](https://img.shields.io/badge/Hossein-000?style=flat&logo=github)](https://github.com/iamhosseinzadeh)
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Arash-abraham.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="100" style="border-radius: 50%;"> |
+| **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein** |
+| *Founder & Lead* | *Senior Developer* | *Template Specialist* |
+| [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/joseph-adk1) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/iamhosseinzadeh) |
 
 </div>
   
