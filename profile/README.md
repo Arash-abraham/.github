@@ -37,6 +37,15 @@ Multi-channel alerts · WebSocket live sync · SaaS ready
 
 ---
 
+## Team
+
+| Member | Role |
+|--------|------|
+| [Arash-abraham](https://github.com/Arash-abraham) | Founder & Lead |
+| [joseph-adk1](https://github.com/joseph-adk1) | Senior Developer |
+
+---
+
 ## Sponsor Us
 
 Your support helps us maintain open-source tools and build more.
@@ -53,13 +62,7 @@ Your support helps us maintain open-source tools and build more.
 
 Private contracts for MVPs, internal tools, backend architecture, or any idea you have.
 
-**Contact:** [Arash](https://github.com/Arash-abraham) — Telegram: @Octawian · Email: arashebi777@gmail.com
-
----
-
-## Our Philosophy
-
-We focus on our craft and respect every builder. Healthy competition lifts everyone.
+**Contact:** [Arash](https://github.com/Arash-abraham) — Telegram: @Octawian
 
 ---
 
