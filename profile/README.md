@@ -82,12 +82,12 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 <div align="center">
   
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://github.com/Arash-abraham.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="100" style="border-radius: 50%;"> |
-| **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein** |
-| *Founder & Lead* | *Senior Developer* | *Template Specialist* |
-| [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/joseph-adk1) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/iamhosseinzadeh) |
+| | |
+|:---:|:---:|
+| <img src="https://github.com/Arash-abraham.png" width="110" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="110" style="border-radius: 50%;"> |
+| **🚀 Arash Ebrahimian** | **⚡ Joseph Adk1** |
+| *Founder & Lead Architect* | *Senior Backend Engineer* |
+| [![GitHub](https://img.shields.io/badge/Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseph-adk1) |
 
 </div>
   
