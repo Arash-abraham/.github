@@ -78,19 +78,20 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ---
 
-<div align="center">
+## 👥 Core Team
+
+### 🧑‍💻 **Arash Ebrahimian** — *Founder & Lead*
+- Backend Architect · Security Engineer
+- [GitHub](https://github.com/Arash-abraham) · [Telegram](https://t.me/Octawian) · [Email](mailto:arashebi777@gmail.com)
+
+### ⚡ **Joseph Adk1** — *Senior Developer*
+- Backend & Infrastructure · Python · Laravel
+- [GitHub](https://github.com/joseph-adk1)
+
+### 🎨 **Amirhossein Hosseinzadeh** — *Template Specialist*
+- Frontend · UI/UX · WordPress
+- [GitHub](https://github.com/iamhosseinzadeh)
   
-## 👥 The Team
-
-</div>
-
-| 🧑‍💻 | **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein Hosseinzadeh** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/Arash-abraham.png" width="100"> | <img src="https://github.com/joseph-adk1.png" width="100"> | <img src="https://github.com/iamhosseinzadeh.png" width="100"> |
-| **Founder & Lead** | **Senior Developer** | **Template Specialist** |
-| Backend Architect | Security & Backend | Frontend & UI/UX |
-| [GitHub](https://github.com/Arash-abraham) • [Telegram](https://t.me/Octawian) | [GitHub](https://github.com/joseph-adk1) | [GitHub](https://github.com/iamhosseinzadeh) |
-
 ---
 
 ## 💎 Sponsor Us
