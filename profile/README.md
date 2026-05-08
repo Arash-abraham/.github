@@ -78,11 +78,18 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ---
 
-**Arash Ebrahimian**  
-*Founder & Lead*  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Arash-abraham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Octawian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arashebi777@gmail.com)
+## 👥 Team
+
+<div align="center">
+  
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Arash-abraham.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="100" style="border-radius: 50%;"> |
+| **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein Hosseinzadeh** |
+| Founder & Lead | Senior Developer | Template Specialist |
+| [GitHub](https://github.com/Arash-abraham) | [GitHub](https://github.com/joseph-adk1) | [GitHub](https://github.com/iamhosseinzadeh) |
+
+</div>
   
 ---
 
