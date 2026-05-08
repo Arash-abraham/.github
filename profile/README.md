@@ -80,14 +80,14 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ## 👥 Core Team
 
-<div align="center">
+<div align="">
   
 | | |
 |:---:|:---:|
 | <img src="https://github.com/Arash-abraham.png" width="110" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="110" style="border-radius: 50%;"> |
-| **🚀 Arash Ebrahimian** | **⚡ Joseph Adk1** |
-| *Founder & Lead Architect* | *Senior Backend Engineer* |
-| [![GitHub](https://img.shields.io/badge/Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseph-adk1) |
+| **👑 Arash Ebrahimian** | **💎 Joseph Adk1** |
+| *Lead Architect & Vision* | *Core Engineer & Execution* |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseph-adk1) |
 
 </div>
   
