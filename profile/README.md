@@ -80,14 +80,12 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ## 👥 Team
 
-<div align="center">
+<div align="">
   
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github.com/Arash-abraham.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="100" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="100" style="border-radius: 50%;"> |
-| **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein Hosseinzadeh** |
-| Founder & Lead | Senior Developer | Template Specialist |
-| [GitHub](https://github.com/Arash-abraham) | [GitHub](https://github.com/joseph-adk1) | [GitHub](https://github.com/iamhosseinzadeh) |
+| <img src="https://github.com/Arash-abraham.png" width="80" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="80" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="80" style="border-radius: 50%;"> |
+| **Arash** | **Joseph** | **Amirhossein** |
 
 </div>
   
