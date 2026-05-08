@@ -1,96 +1,78 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Iran-Dev_Team-000000?style=for-the-badge&logo=persian&logoColor=white">
-  <img src="https://img.shields.io/badge/Security_Tools-Open_Source-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web_Architecture-Laravel_•_Python-orange?style=for-the-badge">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=If+software+is+the+answer%2C+we+write+it." alt="Typing SVG">
+  
+# ☀️ AryaKhorasan
+  
+### Iranian Backend & Security Engineering Team
+  
 </div>
 
-<br>
+---
 
-# 🦁 AryaKhorasan
-### The Iranian Dev Team That Actually Ships
+## 📌 Who We Are
 
-We are a **private, high-output Iranian development team**. No ads. No hype. Just clean, secure, and scalable code.
+We are a **private engineering team from Iran**. No fluff. No over-promising.  
+We design, build, and scale backend systems — from **REST APIs** to **security automation pipelines**.
 
-> From **bug hunting tools** to **fintech backends** — if you can dream it, we can build it.
+**Core belief:** Code should be clean, secure, and maintainable years from now.
 
-<br>
+---
 
-## 🧠 What We Bring to the Table
+## ⚙️ Technology Stack
 
-We don't just "know code". We deliver production-ready systems that won't fall apart when you grow.
+We don't chase trends. We master tools that last.
 
-| Area | Core Competencies |
-| :--- | :--- |
-| 🛡️ **Security Engineering** | Custom bug hunting toolkits, log analyzers, watchtowers, scanners, and ethical security automation |
-| 🌐 **Web & Backend** | Laravel (expert), Python (Django/FastAPI), REST/GraphQL APIs, microservices, scalable database design |
-| ⚙️ **Smart Automation** | Telegram bots, CLI tools, scrapers, dashboards, internal panels — anything that saves you time |
-| ☁️ **DevOps Basics** | Docker, CI setup, deployment scripts, Linux server hardening |
+| Layer | Technologies |
+|-------|--------------|
+| **Backend** | Laravel (PHP), Python (Django, FastAPI), Go (for high-concurrency services) |
+| **Database** | PostgreSQL, MySQL, Redis, SQLite |
+| **API** | REST, GraphQL, WebSocket |
+| **Security Tools** | Custom Python/PHP scripts, log analyzers, automated scanners, watchtower systems |
+| **DevOps** | Docker, GitHub Actions, basic Kubernetes, Linux (Ubuntu/Alpine) |
+| **Frontend (when needed)** | Alpine.js, Tailwind, Livewire, basic React |
 
-> "You bring the vision. We write the code that outlives the hype."
+---
 
-<br>
+## 🔭 Projects
 
-## 🔭 Current Open‑Source Projects
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| **[Watch Tower](https://github.com/AryaKhorasan/watch-tower)** | Bug hunter's toolkit — monitoring, logging, and alert system | PHP, CLI |
 
-These are not toys. These are tools we actually use.
+More repositories will be added. One working tool at a time.
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| 🔭 **[Watch Tower](https://github.com/AryaKhorasan/watch-tower)** | Full‑featured toolkit for bug hunters – your personal watchtower over targets | PHP • CLI |
-| *(More coming. One at a time. No junk.)* | — | — |
+---
 
-<br>
+## 🤝 Why Sponsor AryaKhorasan?
 
-## 💎 Why Sponsor Us?
+Sponsorship directly supports:
 
-Because you believe in **real engineering from Iran** — and you want to accelerate tools that matter.
+- **Open‑source security tools** maintained and updated
+- **Iranian engineering talent** without corporate backing
+- **Technical documentation** and free educational content (coming)
 
-When you sponsor AryaKhorasan:
+**Sponsors receive:**
+- Priority technical consultation (private channel)
+- Early access to new tools
+- Name in sponsors section of each repository
 
-✔️ You help **open‑source security tools** stay alive and updated.  
-✔️ You support a team that builds **without corporate backing**.  
-✔️ You get **priority advisory** (private channel — ask anything technical).  
-✔️ You become part of a small, exclusive circle that enables independent Iranian devs.
+---
 
-> **No empty promises. Just code that works.**
+## 📫 Work With Us (Private Contracts)
 
-<br>
+We accept **select private projects**:
 
-## 🤝 Work With Us (Private)
+- MVP development for startups
+- Custom internal tools (automation, dashboards, security)
+- Backend architecture consulting
 
-We take **select private contracts** — from MVP for startups to critical internal tools.
-
-- 💡 **Have a product idea?** → We build the prototype or the real thing.
-- 🛡️ **Need a security/internal tool?** → We deliver fast and quiet.
-- 👨‍💻 **Hiring or collaboration?** → Only if the mission is interesting.
-
-**Contact**: Reach out directly to [Arash](https://github.com/Arash-abraham) (team lead).
-
-<br>
-
-## 📊 Why This Team is Different
-
-| Most Dev Teams | **AryaKhorasan** |
-| :--- | :--- |
-| Talk a lot. | Ship quietly. |
-| Need perfect specs. | Understand the problem anyway. |
-| Disappear after payment. | Stay responsive. |
-| Avoid hard problems. | "We'll figure it out." |
-
-<br>
-
-## 🌟 Our North Star
-
-To prove that **Iranian developers can build world‑class software** — secure, elegant, and brutally reliable.
-
-And to build a small, sustainable island of creators who don't need permission.
+**Contact:** [Arash](https://github.com/Arash-abraham) — team lead
 
 ---
 
 <div align="center">
-  <b>AryaKhorasan</b> – *If software is the answer, we write it.*
-  <br><br>
-  <img src="https://img.shields.io/badge/Support_Open_Source-Sponsor_on_GitHub-pink?style=for-the-badge&logo=githubsponsors">
+  
+**AryaKhorasan** – *Backend that endures. Security that works.*
+
+[GitHub Organization](https://github.com/AryaKhorasan) • Open Source • Built in Iran
+
 </div>
