@@ -82,12 +82,11 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 <div align="center">
 
-| <img src="https://github.com/Arash-abraham.png" width="100" height="100" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="100" height="100" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="100" height="100" style="border-radius: 50%;"> |
-|:---:|:---:|:---:|
-| **Arash Ebrahimian** | **Joseph Adk1** | **Amirhossein Hosseinzadeh** |
-| Founder & Lead | Senior Developer | Template Specialist |
-| [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/Arash-abraham) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/joseph-adk1) | [![GitHub](https://img.shields.io/badge/-000?style=flat&logo=github)](https://github.com/iamhosseinzadeh) |
-</div>
+| | Member | Role | GitHub |
+|-|--------|------|--------|
+| 👑 | **Arash Ebrahimian** | Founder & Lead | [@Arash-abraham](https://github.com/Arash-abraham) |
+| ⚡ | **Joseph Adk1** | Senior Developer | [@joseph-adk1](https://github.com/joseph-adk1) |
+| 🎨 | **Amirhossein Hosseinzadeh** | Template Specialist | [@iamhosseinzadeh](https://github.com/iamhosseinzadeh) |
 
 ---
 
