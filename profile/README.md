@@ -78,15 +78,41 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ---
 
-## 👥 Team
+## Contributors ✨
 
-<div align="center">
-  
-<img src="https://github.com/Arash-abraham.png" width="80" height="80" style="border-radius: 50%;">
-<img src="https://github.com/joseph-adk1.png" width="80" height="80" style="border-radius: 50%;">
-<img src="https://github.com/iamhosseinzadeh.png" width="80" height="80" style="border-radius: 50%;">
+Thanks goes to these wonderful people:
 
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Arash-abraham">
+        <img src="https://github.com/Arash-abraham.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Arash Ebrahimian</b></sub>
+      </a>
+      <br />
+      <sub>Founder & Lead</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joseph-adk1">
+        <img src="https://github.com/joseph-adk1.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Joseph Adk1</b></sub>
+      </a>
+      <br />
+      <sub>Senior Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iamhosseinzadeh">
+        <img src="https://github.com/iamhosseinzadeh.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Amirhossein Hosseinzadeh</b></sub>
+      </a>
+      <br />
+      <sub>Template Specialist</sub>
+    </td>
+  </tr>
+</table>
   
 ---
 
