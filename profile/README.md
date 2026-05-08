@@ -78,19 +78,11 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ---
 
-## 👥 Core Team
-
-### 🧑‍💻 **Arash Ebrahimian** — *Founder & Lead*
-- Backend Architect · Security Engineer
-- [GitHub](https://github.com/Arash-abraham) · [Telegram](https://t.me/Octawian) · [Email](mailto:arashebi777@gmail.com)
-
-### ⚡ **Joseph Adk1** — *Senior Developer*
-- Backend & Infrastructure · Python · Laravel
-- [GitHub](https://github.com/joseph-adk1)
-
-### 🎨 **Amirhossein Hosseinzadeh** — *Template Specialist*
-- Frontend · UI/UX · WordPress
-- [GitHub](https://github.com/iamhosseinzadeh)
+**Arash Ebrahimian**  
+*Founder & Lead*  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Arash-abraham)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Octawian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arashebi777@gmail.com)
   
 ---
 
