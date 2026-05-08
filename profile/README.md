@@ -80,12 +80,11 @@ Watch Tower detects newly added assets from defined targets and notifies you ins
 
 ## 👥 Team
 
-<div align="">
+<div align="center">
   
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://github.com/Arash-abraham.png" width="80" style="border-radius: 50%;"> | <img src="https://github.com/joseph-adk1.png" width="80" style="border-radius: 50%;"> | <img src="https://github.com/iamhosseinzadeh.png" width="80" style="border-radius: 50%;"> |
-| **Arash** | **Joseph** | **Amirhossein** |
+<img src="https://github.com/Arash-abraham.png" width="80" height="80" style="border-radius: 50%;">
+<img src="https://github.com/joseph-adk1.png" width="80" height="80" style="border-radius: 50%;">
+<img src="https://github.com/iamhosseinzadeh.png" width="80" height="80" style="border-radius: 50%;">
 
 </div>
   
